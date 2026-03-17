@@ -1,0 +1,206 @@
+{
+    "35.186.224.35": {
+        "city": "Kansas City",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "51.132.193.105": {
+        "city": "City of London",
+        "country": "United Kingdom",
+        "isp": "Microsoft",
+        "countryCode": "GB"
+    },
+    "11.12.23.35": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "11.12.31.255": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "208.103.161.1": {
+        "city": "San Francisco",
+        "country": "United States",
+        "isp": "Notion Labs, Inc.",
+        "countryCode": "US"
+    },
+    "216.239.36.223": {
+        "city": "Austell",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "142.250.77.142": {
+        "city": "Mountain View",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "208.103.161.2": {
+        "city": "San Francisco",
+        "country": "United States",
+        "isp": "Notion Labs, Inc.",
+        "countryCode": "US"
+    },
+    "155.133.225.21": {
+        "city": "Chennai",
+        "country": "India",
+        "isp": "Valve Corporation",
+        "countryCode": "IN"
+    },
+    "216.239.32.223": {
+        "city": "Austell",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "11.12.4.206": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "11.12.8.45": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "52.123.173.238": {
+        "city": "Seoul",
+        "country": "South Korea",
+        "isp": "Microsoft Corporation",
+        "countryCode": "KR"
+    },
+    "208.95.112.1": {
+        "city": "Ashburn",
+        "country": "United States",
+        "isp": "Total Uptime Technologies, LLC",
+        "countryCode": "US"
+    },
+    "11.12.2.250": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "11.12.4.167": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "34.54.84.110": {
+        "city": "Kansas City",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "4.213.25.241": {
+        "city": "Pune",
+        "country": "India",
+        "isp": "Microsoft Corporation",
+        "countryCode": "IN"
+    },
+    "72.145.35.106": {
+        "city": "Dublin",
+        "country": "Ireland",
+        "isp": "Microsoft Corporation",
+        "countryCode": "IE"
+    },
+    "11.12.19.25": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "52.168.117.174": {
+        "city": "Boydton",
+        "country": "United States",
+        "isp": "Microsoft Corporation",
+        "countryCode": "US"
+    },
+    "13.107.136.10": {
+        "city": "Redmond",
+        "country": "United States",
+        "isp": "Microsoft Corporation",
+        "countryCode": "US"
+    },
+    "57.144.55.32": {
+        "city": "Chennai",
+        "country": "India",
+        "isp": "Facebook, Inc.",
+        "countryCode": "IN"
+    },
+    "11.12.20.216": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "11.12.20.93": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "172.188.155.25": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "isp": "Microsoft",
+        "countryCode": "SG"
+    },
+    "216.239.34.223": {
+        "city": "Austell",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "142.251.220.99": {
+        "city": "Mountain View",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    },
+    "11.12.18.249": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "11.12.5.193": {
+        "city": "Columbus",
+        "country": "United States",
+        "isp": "United States Department of Defense (DoD)",
+        "countryCode": "US"
+    },
+    "185.159.159.148": {
+        "city": "Plan-les-Ouates",
+        "country": "Switzerland",
+        "isp": "Proton AG",
+        "countryCode": "CH"
+    },
+    "20.72.205.209": {
+        "city": "Quincy",
+        "country": "United States",
+        "isp": "Microsoft Corporation",
+        "countryCode": "US"
+    },
+    "51.116.246.105": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "isp": "Microsoft Corporation",
+        "countryCode": "DE"
+    },
+    "74.125.200.188": {
+        "city": "Mountain View",
+        "country": "United States",
+        "isp": "Google LLC",
+        "countryCode": "US"
+    }
+}
